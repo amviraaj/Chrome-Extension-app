@@ -1,12 +1,3 @@
-/* Truthy or Falsy decribed here 
-console.log(Boolean(""))   - Falsy 
-console.log(Boolean("0"))   - Truthy
-console.log(Boolean(100))   - Truthy
-console.log(Boolean(null))  - Falsy
-console.log( Boolean([0]))  - Truthy
-console.log(Boolean(0))   - Falsy
- -----*/
-
 
 let myLeads = []
 const inputEl = document.getElementById("input-el")
